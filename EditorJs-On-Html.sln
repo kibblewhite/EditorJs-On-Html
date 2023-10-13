@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorJsonHtml", "EditorJsonHtml\EditorJsonHtml.csproj", "{00325FC5-78FC-4164-872C-9F74DF85133C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D150444-9435-4E81-93E4-1165C25816C7}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditorJsOnHtml.Tests", "EditorJsOnHtml.Tests\EditorJsOnHtml.Tests.csproj", "{1EBAB0B8-D20A-488D-9C30-7D1B6A96D1D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00325FC5-78FC-4164-872C-9F74DF85133C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00325FC5-78FC-4164-872C-9F74DF85133C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00325FC5-78FC-4164-872C-9F74DF85133C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00325FC5-78FC-4164-872C-9F74DF85133C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBAB0B8-D20A-488D-9C30-7D1B6A96D1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBAB0B8-D20A-488D-9C30-7D1B6A96D1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBAB0B8-D20A-488D-9C30-7D1B6A96D1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBAB0B8-D20A-488D-9C30-7D1B6A96D1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39CBA60-5764-491E-8A06-151C1076E4BA}
+	EndGlobalSection
+EndGlobal
